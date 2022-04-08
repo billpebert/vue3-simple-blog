@@ -1,0 +1,19 @@
+{
+    "posts": [{
+            "id": 1,
+            "title": "Welcome to the new blog",
+            "body": "Architecto repudiandae necessitatibus in atque laborum, cum, quis impedit maiores alias enim numquam et quibusdam excepturi labore odio earum dolores magnam facilis quaerat aperiam consequatur nobis iusto totam! Obcaecati, illum. Quod quae rerum et necessitatibus! Obcaecati aspernatur doloribus voluptatem labore expedita beatae, sit velit perspiciatis voluptatum recusandae nobis odio veritatis quidem unde! Tempora quod itaque eius nisi eaque cum omnis?",
+            "tags": [
+                "webdev", "coding", "user-interface"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "How to use tailwindcss?",
+            "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod dolorum nesciunt animi ullam enim maiores veniam delectus at temporibus, explicabo nam ex quae vitae repellat eius architecto eaque, possimus incidunt! Atque facere ipsa ducimus hic voluptates ea, reprehenderit unde quos placeat non voluptas maxime dolor sapiente exercitationem assumenda, officia odit veritatis culpa distinctio suscipit similique. Consequatur iste explicabo dicta velit.",
+            "tags": [
+                "css", "tailwind", "coding"
+            ]
+        }
+    ]
+}

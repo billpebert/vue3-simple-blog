@@ -1,0 +1,3 @@
+installment: npm install json-server
+
+npx json-server --watch db/data.json
